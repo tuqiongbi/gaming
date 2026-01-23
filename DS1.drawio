@@ -18,6 +18,9 @@
         <mxCell id="yTkHtQrg5PCzRHg7CbS9-56" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-76" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-75" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yTkHtQrg5PCzRHg7CbS9-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="传火祭祀场" vertex="1">
           <mxGeometry height="60" width="120" x="350" y="250" as="geometry" />
         </mxCell>
@@ -48,6 +51,16 @@
         </mxCell>
         <mxCell id="yTkHtQrg5PCzRHg7CbS9-15" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-14" value="">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-67" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" target="yTkHtQrg5PCzRHg7CbS9-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="44.666666666666515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-69" connectable="0" parent="yTkHtQrg5PCzRHg7CbS9-67" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="需要敲钟" vertex="1">
+          <mxGeometry relative="1" x="-0.0493" y="-2" as="geometry">
+            <mxPoint y="-13" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yTkHtQrg5PCzRHg7CbS9-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="城外不死教区&lt;div&gt;安德烈&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="350" y="30" as="geometry" />
@@ -206,6 +219,29 @@
           <mxGeometry relative="1" x="-0.0229" y="-1" as="geometry">
             <mxPoint x="2" y="29" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-71" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-70" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="塞恩古城" vertex="1">
+          <mxGeometry height="60" width="90" x="165" y="14.67" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-73" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;endArrow=none;endFill=0;strokeWidth=3;" target="yTkHtQrg5PCzRHg7CbS9-72" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-74" connectable="0" parent="yTkHtQrg5PCzRHg7CbS9-73" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="需要王器" vertex="1">
+          <mxGeometry relative="1" x="0.0889" y="-1" as="geometry">
+            <mxPoint y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-70" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="亚诺尔隆德&lt;div&gt;（王器）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="90" x="30" y="14.67" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-72" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="公爵书库&lt;div&gt;（王）&lt;/div&gt;&lt;div&gt;白龙&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-180" y="14.670000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-75" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="不死院" vertex="1">
+          <mxGeometry height="60" width="90" x="365" y="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
