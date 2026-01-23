@@ -18,8 +18,18 @@
         <mxCell id="yTkHtQrg5PCzRHg7CbS9-56" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yTkHtQrg5PCzRHg7CbS9-76" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-75" value="">
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-76" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.128;exitY=0.949;exitDx=0;exitDy=0;exitPerimeter=0;" target="yTkHtQrg5PCzRHg7CbS9-75" value="">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-78" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" target="yTkHtQrg5PCzRHg7CbS9-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-80" connectable="0" parent="yTkHtQrg5PCzRHg7CbS9-78" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="需要王魂" vertex="1">
+          <mxGeometry relative="1" x="-0.0446" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yTkHtQrg5PCzRHg7CbS9-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="传火祭祀场" vertex="1">
           <mxGeometry height="60" width="120" x="350" y="250" as="geometry" />
@@ -241,7 +251,10 @@
           <mxGeometry height="60" width="120" x="-180" y="14.670000000000002" as="geometry" />
         </mxCell>
         <mxCell id="yTkHtQrg5PCzRHg7CbS9-75" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="不死院" vertex="1">
-          <mxGeometry height="60" width="90" x="365" y="380" as="geometry" />
+          <mxGeometry height="60" width="80" x="270" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="初始火炉&lt;div&gt;end&lt;/div&gt;&lt;div&gt;葛温&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
