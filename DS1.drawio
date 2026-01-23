@@ -1,9 +1,209 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.4">
   <diagram name="第 1 页" id="VR7q42QMUVGmr-49-HJf">
-    <mxGraphModel>
+    <mxGraphModel dx="1466" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-3" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-38" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="290" />
+            </Array>
+            <mxPoint x="270" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-56" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="传火祭祀场" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-5" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-7" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="不死镇（前半）&lt;div&gt;牛头恶魔&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="355" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-9" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" target="yTkHtQrg5PCzRHg7CbS9-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="60" />
+              <mxPoint x="300" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-11" connectable="0" parent="yTkHtQrg5PCzRHg7CbS9-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="电梯" vertex="1">
+          <mxGeometry relative="1" x="-0.0976" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-13" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-15" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="城外不死教区&lt;div&gt;安德烈&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-16" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" target="yTkHtQrg5PCzRHg7CbS9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-19" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-20" connectable="0" parent="yTkHtQrg5PCzRHg7CbS9-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="需要底层钥匙" vertex="1">
+          <mxGeometry relative="1" x="-0.0606" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="不死镇（后半）&lt;div&gt;（一羊两狗）&lt;/div&gt;&lt;div&gt;底层钥匙&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-12" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" value="城外不死教区&lt;div&gt;（钟）&lt;/div&gt;&lt;div&gt;双石像鬼&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="-50" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-29" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;endArrow=none;endFill=0;strokeWidth=3;" target="yTkHtQrg5PCzRHg7CbS9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-30" connectable="0" parent="yTkHtQrg5PCzRHg7CbS9-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="哈维尔" vertex="1">
+          <mxGeometry relative="1" x="0.0391" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-32" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-14" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="黑森林庭院" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="管道栅栏门" vertex="1">
+          <mxGeometry height="30" width="70" x="480" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-22" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-18" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="底层&lt;div&gt;（贪食魔龙）&lt;/div&gt;&lt;div&gt;病村钥匙&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="70" x="740" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-24" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yTkHtQrg5PCzRHg7CbS9-23" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="260" />
+              <mxPoint x="870" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-27" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-48" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-47" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-21" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="病村&lt;div&gt;小隆德钥匙&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="95" x="727.5" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-34" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" target="yTkHtQrg5PCzRHg7CbS9-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-35" connectable="0" parent="yTkHtQrg5PCzRHg7CbS9-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="需要王器" vertex="1">
+          <mxGeometry relative="1" x="0.0606" as="geometry">
+            <mxPoint x="-2" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-44" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-23" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" value="病村底层&lt;div&gt;（钟）&lt;/div&gt;&lt;div&gt;蜘蛛&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="930" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="930" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-31" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="希夫&lt;div&gt;（小隆德前置）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-45" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-33" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="恶魔遗迹&lt;div&gt;（王）&lt;/div&gt;&lt;div&gt;温床&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1140" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-41" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" target="yTkHtQrg5PCzRHg7CbS9-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="地下墓地" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-40" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="巨人墓地&lt;div&gt;（王）&lt;/div&gt;&lt;div&gt;尼特&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-30" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="需要王器" vertex="1">
+          <mxGeometry height="30" width="60" x="90" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-43" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="大树洞&amp;amp;灰烬湖" vertex="1">
+          <mxGeometry height="60" width="120" x="930" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="电梯和人性门" vertex="1">
+          <mxGeometry height="30" width="60" x="1070" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-64" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="yTkHtQrg5PCzRHg7CbS9-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1310" y="395" />
+              <mxPoint x="1310" y="-10" />
+              <mxPoint x="560" y="-10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-65" connectable="0" parent="yTkHtQrg5PCzRHg7CbS9-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="小隆德正门 两条小蓝龙的桥对面电梯&lt;div&gt;可以直接上到夹缝森林&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.5523" as="geometry">
+            <mxPoint y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-47" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="飞龙谷" vertex="1">
+          <mxGeometry height="180" width="40" x="670" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-60" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" target="yTkHtQrg5PCzRHg7CbS9-59" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-61" connectable="0" parent="yTkHtQrg5PCzRHg7CbS9-60" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="需要王器&lt;div&gt;需要放水钥匙&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1651" y="-1" as="geometry">
+            <mxPoint x="1" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-49" parent="1" style="whiteSpace=wrap;html=1;" value="小隆德后门" vertex="1">
+          <mxGeometry height="50" width="60" x="520" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-53" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" target="yTkHtQrg5PCzRHg7CbS9-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="279" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="需要小隆德钥匙" vertex="1">
+          <mxGeometry height="30" width="60" x="600" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-59" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="小隆德四王&lt;div&gt;（王）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="70" x="515" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-62" edge="1" parent="1" source="yTkHtQrg5PCzRHg7CbS9-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.035;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;" target="yTkHtQrg5PCzRHg7CbS9-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yTkHtQrg5PCzRHg7CbS9-63" connectable="0" parent="yTkHtQrg5PCzRHg7CbS9-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="小隆德前门&lt;div&gt;需要王器&lt;/div&gt;&lt;div&gt;需要放水钥匙&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0229" y="-1" as="geometry">
+            <mxPoint x="2" y="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
