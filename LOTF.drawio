@@ -1,0 +1,195 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.4">
+  <diagram name="第 1 页" id="6BnYH94adDeVs7bF6Wz3">
+    <mxGraphModel dx="1722" dy="1708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-3" edge="1" parent="1" source="ybxhZFbKbME9OIaqA5Gc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=filledEdge;endArrow=none;endFill=0;" target="ybxhZFbKbME9OIaqA5Gc-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-5" edge="1" parent="1" source="ybxhZFbKbME9OIaqA5Gc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" target="ybxhZFbKbME9OIaqA5Gc-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="220" />
+              <mxPoint x="440" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-11" edge="1" parent="1" source="ybxhZFbKbME9OIaqA5Gc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" target="ybxhZFbKbME9OIaqA5Gc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-12" connectable="0" parent="ybxhZFbKbME9OIaqA5Gc-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="天空之桥内部" vertex="1">
+          <mxGeometry relative="1" x="-0.097" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="天空之桥&lt;div&gt;（值得分析的小箱庭）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-10" edge="1" parent="1" source="ybxhZFbKbME9OIaqA5Gc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;" target="ybxhZFbKbME9OIaqA5Gc-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-22" connectable="0" parent="ybxhZFbKbME9OIaqA5Gc-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="需要钥匙" vertex="1">
+          <mxGeometry relative="1" x="-0.6145" y="-1" as="geometry">
+            <mxPoint x="1" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="风车" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-7" edge="1" parent="1" source="ybxhZFbKbME9OIaqA5Gc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" target="ybxhZFbKbME9OIaqA5Gc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-8" connectable="0" parent="ybxhZFbKbME9OIaqA5Gc-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="下层电梯&lt;div&gt;双死神&lt;/div&gt;&lt;div&gt;天空之桥钥匙&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1045" y="1" as="geometry">
+            <mxPoint x="-41" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-14" edge="1" parent="1" source="ybxhZFbKbME9OIaqA5Gc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="ybxhZFbKbME9OIaqA5Gc-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="避难所" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" value="封地&lt;div&gt;（值得分析的小箱庭）&lt;br&gt;&lt;div&gt;（灯）&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="515" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-16" edge="1" parent="1" source="ybxhZFbKbME9OIaqA5Gc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="ybxhZFbKbME9OIaqA5Gc-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-6" edge="1" parent="1" source="ybxhZFbKbME9OIaqA5Gc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;" target="QgZQW6zsKWMgtTozXYrG-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-8" connectable="0" parent="QgZQW6zsKWMgtTozXYrG-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="需要钥匙" vertex="1">
+          <mxGeometry relative="1" x="0.0606" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-13" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="钟声房&lt;div&gt;（&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;两条岔路均到达铁匠处电梯环回&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-19" edge="1" parent="1" source="ybxhZFbKbME9OIaqA5Gc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="ybxhZFbKbME9OIaqA5Gc-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-15" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" value="沼泽&lt;div&gt;小村&lt;/div&gt;&lt;div&gt;（小箱庭）&lt;/div&gt;&lt;div&gt;（火）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="350" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-24" edge="1" parent="1" source="ybxhZFbKbME9OIaqA5Gc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;endArrow=none;endFill=0;" target="ybxhZFbKbME9OIaqA5Gc-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="-120" />
+              <mxPoint x="210" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-26" connectable="0" parent="ybxhZFbKbME9OIaqA5Gc-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="深红教区长电梯" vertex="1">
+          <mxGeometry relative="1" x="-0.0598" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-28" edge="1" parent="1" source="ybxhZFbKbME9OIaqA5Gc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="ybxhZFbKbME9OIaqA5Gc-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-18" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="峡谷" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="-150" as="geometry" />
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="连线表示双向通路&lt;div&gt;箭头表示单向通路&lt;/div&gt;&lt;div&gt;紫色连线表示通路存在能力锁&lt;/div&gt;&lt;div&gt;红色为近路&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="170" x="-5" y="-430" as="geometry" />
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-2" edge="1" parent="1" source="ybxhZFbKbME9OIaqA5Gc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="QgZQW6zsKWMgtTozXYrG-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ybxhZFbKbME9OIaqA5Gc-27" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="卡拉斯下层&lt;div&gt;矿洞&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="-240" as="geometry" />
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-3" edge="1" parent="1" source="QgZQW6zsKWMgtTozXYrG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;endArrow=none;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" target="ybxhZFbKbME9OIaqA5Gc-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="-310" />
+              <mxPoint x="160" y="360" />
+              <mxPoint x="410" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-4" connectable="0" parent="QgZQW6zsKWMgtTozXYrG-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="后门" vertex="1">
+          <mxGeometry relative="1" x="0.8085" y="8" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-28" edge="1" parent="1" source="QgZQW6zsKWMgtTozXYrG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="QgZQW6zsKWMgtTozXYrG-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" value="卡拉斯上层&lt;div&gt;（火）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="-340" as="geometry" />
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-10" edge="1" parent="1" source="QgZQW6zsKWMgtTozXYrG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=1;" target="QgZQW6zsKWMgtTozXYrG-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-14" edge="1" parent="1" source="QgZQW6zsKWMgtTozXYrG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="QgZQW6zsKWMgtTozXYrG-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-5" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="钟哥boss" vertex="1">
+          <mxGeometry height="60" width="80" x="570" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-11" edge="1" parent="1" source="QgZQW6zsKWMgtTozXYrG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;curved=1;endArrow=none;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" target="ybxhZFbKbME9OIaqA5Gc-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="797" y="470" />
+              <mxPoint x="440" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-12" connectable="0" parent="QgZQW6zsKWMgtTozXYrG-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="天空之桥的另一侧" vertex="1">
+          <mxGeometry relative="1" x="-0.4072" y="-40" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="纪念碑" vertex="1">
+          <mxGeometry height="60" width="120" x="707" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-18" edge="1" parent="1" source="QgZQW6zsKWMgtTozXYrG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="ybxhZFbKbME9OIaqA5Gc-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="-35" />
+              <mxPoint x="680" y="145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-19" connectable="0" parent="QgZQW6zsKWMgtTozXYrG-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="一个两端都不接近火的电梯" vertex="1">
+          <mxGeometry relative="1" x="0.4241" y="4" as="geometry">
+            <mxPoint x="-5" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-22" edge="1" parent="1" source="QgZQW6zsKWMgtTozXYrG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="QgZQW6zsKWMgtTozXYrG-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-25" edge="1" parent="1" source="QgZQW6zsKWMgtTozXYrG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="QgZQW6zsKWMgtTozXYrG-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-13" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="神圣修士的庄园" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-24" edge="1" parent="1" source="QgZQW6zsKWMgtTozXYrG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="QgZQW6zsKWMgtTozXYrG-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-20" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="修道院" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="-190" as="geometry" />
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-23" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" value="至高天&lt;div&gt;（火）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="-300" as="geometry" />
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="忏悔之塔&lt;div&gt;（火）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="-190" as="geometry" />
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-27" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="城堡" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="-450" as="geometry" />
+        </mxCell>
+        <mxCell id="QgZQW6zsKWMgtTozXYrG-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="常规游戏流程：一路推到卡拉斯上层，然后打封地，最后推庄园，纪念碑可以不去。不考虑邪道则不存在破序可能性，&lt;font style=&quot;color: rgb(255, 10, 10);&quot;&gt;游戏必须的近路（100%会使用的）只有卡拉斯锁门后从天空之桥后门反走，然后打光之收割者和钢铁行者&lt;/font&gt;" vertex="1">
+          <mxGeometry height="450" width="150" y="-190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
